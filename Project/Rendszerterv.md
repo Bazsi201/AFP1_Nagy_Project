@@ -21,4 +21,7 @@ A Top G's nevű csapat feladata egy olyan felület fejlesztése, ami széleskör
 |-------------------------|----------------------------------------|-----------|---------------|------------------------|------------------|---------------------|
 |Követelmény specifikáció |Megírás                                 |         1 |             2 |                      2 |                2 |                   2 |       |Funkcionális specifikáció|Megírás                                 |         1 |             2 |                      2 |                2 |                   2 |
 |Rendszerterv             |Megírás                                 |         1 |             2 |                      2 |                2 |                   2 |
-|Program                  |Képernyőtervek elkészítése              |         2 |             2 |                      2 |                2 |                   2 |      
+|Program                  |Képernyőtervek elkészítése              |         2 |             2 |                      2 |                2 |                   2 | 
+|Program                  |Prototípus elkészítése                  |         3 |             17 |                      17 |                17 |                   17 |
+|Program                  |Alapfunkciók elkészítése                |         3 |             17 |                      17 |                17 |                   17 |
+|Program                  |Tesztelés                               |         4 |             5 |                      5 |                5 |                   5 |
