@@ -115,3 +115,11 @@ CREATE TABLE IF NOT EXISTS `users` (
 INSERT INTO `users` (`id`, `name`, `email`, `email_verified_at`, `password`, `remember_token`, `created_at`, `updated_at`) VALUES
 (1, 'Szabó László Zsolt', 'zsoltisw@gmail.com', NULL, '$2y$10$yq2vQkYDb6p/oAWky5sOcuVIMurAY23pfkitMkZIYfjxU5mIDkSem', NULL, '2022-11-02 17:30:35', '2022-11-02 17:30:35');
 COMMIT;
+
+- *surveys:* Regisztrált felhasználók által készített kérdőívek
+  - *id:* Azonosító szám, a kérdőív egyedi azonosítója
+  - *questionnaire_id:* A kérdőívet készítő felhasználó azonosítója
+  - *name:* A kérdőívet készítő felhasználó neve címe
+  - *email:* A kérdőívet készítő felhaszánó email címe
+  - *created_at:* A kérdőív létrejöttének dátuma
+  - *updated_at:* A kérdőív utoljára szerkesztett adatai esetén eltárolt időpont
