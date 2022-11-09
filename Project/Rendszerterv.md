@@ -226,3 +226,8 @@ INSERT INTO `questionnaires` (`id`, `user_id`, `title`, `purpose`, `created_at`,
 (10, 2, 'new question', 'new purpose', '2022-11-03 06:20:54', '2022-11-03 06:20:54');
 COMMIT;
 ---
+
+- *migrations:* 
+  - *id:* Azonosító szám, a migráció egyedi azonosítója
+  - *migration:*
+  - *batch:*
