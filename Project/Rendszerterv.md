@@ -69,6 +69,8 @@ Mivel egy webes felületet készítünk, ezért elegendő egy számítógép vag
     - Láthatja a kérdőív statisztikáit
     - Ki- és bejelentkezhet a felületre
     - Megoszthat kérdőíveket
-
+  - Felhasználó
+    - Kérdőívet tölthet ki
+    - Továbbadhatja a már megkapott linket a kérdőívhez
 
 
