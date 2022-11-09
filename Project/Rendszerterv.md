@@ -25,3 +25,18 @@ A Top G's nevű csapat feladata egy olyan felület fejlesztése, ami széleskör
 |Program                  |Prototípus elkészítése                  |         3 |             17 |                      17 |                17 |                   17 |
 |Program                  |Alapfunkciók elkészítése                |         3 |             17 |                      17 |                17 |                   17 |
 |Program                  |Tesztelés                               |         4 |             5 |                      5 |                5 |                   5 |
+
+### 2.4 Mérföldkövek:
+
+
+## 3. Üzleti folyamatok modellje
+
+
+
+## 4. Követelmények
+
+| Id | Modul | Név | Leírás |
+| :---: | --- | --- | --- |
+| K1 | Felület | Remember me | Tick-box a belépési adatok tárolásának eldöntésére |
+| K2 | Felület | Login | A megadott felhasunálónév és jelszó kombináció beléptetése a felületre |
+| K3 | Felület | Add new question | Új kérdés hozzáadása a kérdőívhez  |
