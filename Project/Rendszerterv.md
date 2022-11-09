@@ -81,9 +81,20 @@ Mivel egy webes felületet készítünk, ezért elegendő egy számítógép vag
     - **Visual Studio Code**
     - **XAMPP**
     - **Laravel**
-    - 
+
 ## 7. Architekturális terv
 
 A rendszer tökéletes működéséhez szükség van egy adatbázis szerverre, ebben az esetben MySql-t használunk. A bootstrap felel a reszponzív webdesign-ért. A backend php alapon nyugszik, laravel keretrendszerrel.
 
-
+## 8. Adatbázis terv
+---
+### *Tábla*
+- *users:* Regisztrált felhasználók
+  - *id:* Azonosító szám, a felhasználó egyedi azonosítója
+  - *name:* A felhasználó neve
+  - *email:* A felhasználó email címe
+  - *email_verified_at:* Az email cím hitelesíési időpontja
+  - *password:* A felhasználó jelszava
+  - *remember_token:*
+  - *created_at: A felhasználó regisztráció dátuma*
+  - *updated_at:* A felhasználó utoljára szerkesztett adatai esetén eltárolt időpont
