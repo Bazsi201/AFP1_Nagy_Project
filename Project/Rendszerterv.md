@@ -140,7 +140,12 @@ CREATE TABLE IF NOT EXISTS `surveys` (
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
-
+INSERT INTO `surveys` (`id`, `questionnaire_id`, `name`, `email`, `created_at`, `updated_at`) VALUES
+(1, 9, 'zsolt', 'zsolt@gmail.com', '2022-11-03 06:22:40', '2022-11-03 06:22:40'),
+(2, 9, 'zsolt', 'zsolt@gmail.com', '2022-11-03 06:23:13', '2022-11-03 06:23:13'),
+(3, 9, 'zsolt', 'zsolt@gmail.com', '2022-11-03 06:23:22', '2022-11-03 06:23:22'),
+(4, 9, 'zsolt', 'zsolt@gmail.com', '2022-11-03 06:23:25', '2022-11-03 06:23:25');
+COMMIT;
 
 
 
