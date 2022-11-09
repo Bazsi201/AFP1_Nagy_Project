@@ -112,3 +112,6 @@ CREATE TABLE IF NOT EXISTS `users` (
   UNIQUE KEY `users_email_unique` (`email`)
 ) ENGINE=MyISAM AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
+INSERT INTO `users` (`id`, `name`, `email`, `email_verified_at`, `password`, `remember_token`, `created_at`, `updated_at`) VALUES
+(1, 'Szabó László Zsolt', 'zsoltisw@gmail.com', NULL, '$2y$10$yq2vQkYDb6p/oAWky5sOcuVIMurAY23pfkitMkZIYfjxU5mIDkSem', NULL, '2022-11-02 17:30:35', '2022-11-02 17:30:35');
+COMMIT;
