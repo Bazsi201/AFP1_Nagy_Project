@@ -52,7 +52,12 @@ A Top G's nevű csapat feladata egy olyan felület fejlesztése, ami széleskör
 
 Mivel egy webes felületet készítünk, ezért elegendő egy számítógép vagy bármilyen okos eszköz amin van internetkapcsolat.
 
+## 5. Funkcionális terv
 
+### 5.1 Rendszerszereplők
+
+- belépett felhasználó (aki készíti a kérdőívet)
+- felhasználó (aki közvetve, a linken keresztül, belépés nélkül éri el a kérdőívet)
 
 
 
