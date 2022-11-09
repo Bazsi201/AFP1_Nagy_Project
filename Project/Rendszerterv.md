@@ -147,6 +147,13 @@ INSERT INTO `surveys` (`id`, `questionnaire_id`, `name`, `email`, `created_at`, 
 (4, 9, 'zsolt', 'zsolt@gmail.com', '2022-11-03 06:23:25', '2022-11-03 06:23:25');
 COMMIT;
 
+- *surveys_responses:* A kérdőívek kitöltött statisztikája
+  - *id:* Azonosító szám, a kitöltött kérdőív egyedi azonosítója
+  - *survey_id:* A kérdőív  azonosítója
+  - *question_id:* A kérdőív egyedi azonosítója
+  - *answer_id:* A kérdőívet készítő felhaszánó email címe
+  - *created_at:* A kérdőív létrejöttének dátuma
+  - *updated_at:* A kérdőív utoljára szerkesztett adatai esetén eltárolt időpont
 
 
 
