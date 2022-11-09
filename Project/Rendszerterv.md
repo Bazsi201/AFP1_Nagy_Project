@@ -73,4 +73,11 @@ Mivel egy webes felületet készítünk, ezért elegendő egy számítógép vag
     - Kérdőívet tölthet ki
     - Továbbadhatja a már megkapott linket a kérdőívhez
 
+## 6. Fizikai környezet
 
+- **Az alkalmazás csak web platformra készül, MySQL adatbázissal lesz futtatva.**
+  - **Nincsenek megvásárolt komponensek.**
+  - **Fejlesztői eszközök:**
+    - **Visual Studio Code**
+    - **XAMPP**
+    - **Laravel**
