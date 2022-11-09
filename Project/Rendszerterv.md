@@ -14,3 +14,9 @@ A Top G's nevű csapat feladata egy olyan felület fejlesztése, ami széleskör
    * Frontend: Mihály Balázs, Kaponya Martin, Szabó Zsolt, Négyesi Imre
    * Backend: Mihály Balázs, Kaponya Martin, Szabó Zsolt, Négyesi Imre
    * Tesztelés: Mihály Balázs, Kaponya Martin, Szabó Zsolt, Négyesi Imre
+
+### 2.3 Ütemterv:
+
+|Funkció                  | Feladat                                | Prioritás | Becslés (nap) | Aktuális becslés (nap) | Eltelt idő (nap) | Becsült idő (nap) |
+|-------------------------|----------------------------------------|-----------|---------------|------------------------|------------------|---------------------|
+|Követelmény specifikáció |Megírás                                 |         1 |             2 |                      2 |                2 |                   2 |             
