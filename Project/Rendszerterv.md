@@ -296,3 +296,8 @@ INSERT INTO `answers` (`id`, `question_id`, `answer`, `created_at`, `updated_at`
 (40, 10, 'new answer 4', '2022-11-03 06:21:17', '2022-11-03 06:21:17');
 COMMIT;
 
+## 9. Implementációs terv
+
+A webes felület HTML, CSS és PHP nyelven fog elkészülni, Laravel keretrendszerrel. A nem egymáshoz kapcsolódó funkciókat amennyire csak lehet, elkülönítjük, úgy csatoljuk egymáshoz ezzel is egy átláthatóbb, könnyebben változtatható lesz a source code-unk. Az adatokat MYSQL adatbázisban fogjuk tárolni.
+
+
