@@ -25,7 +25,7 @@ A kérdőív a mai világban nagyon hasznos dolog! A kérdőív alapvetően az i
 ![képnév](gitlink ahol a kép van)
 
 ## 9. Forgatókönyvek
-
+Amennyiben a felhasználó új, akkor beregisztrálja magát! Regisztrációt követően bejelentkezik és amennyiben sikerült, akkor tud a felhasználó kérdőívet létrehozni! A felhasználó megadja a címet és, hogy kiknek van szánva a kérdőív, vagyis a célközönséget! A kérdőív megadása után felviszi a kérdéseket és a hozzátartozó lehetséges válaszokat is!
 ## 10. Funkció - követelmény megfeleltetése
 
 | Id | Követelmény | Funkció |
