@@ -59,6 +59,16 @@ Mivel egy webes felületet készítünk, ezért elegendő egy számítógép vag
 - belépett felhasználó (aki készíti a kérdőívet)
 - felhasználó (aki közvetve, a linken keresztül, belépés nélkül éri el a kérdőívet)
 
+### 5.2 Menühierarchiák
+
+  - Belépett felhasználó
+    - Kérdőívet hozhat létre
+    - Kérdőívet tölthet ki
+    - Kérdéseket adhat a kérdőívéhez
+    - Kérdéseket törölhet a kérdőívéből
+    - Láthatja a kérdőív statisztikáit
+    - Ki- és bejelentkezhet a felületre
+    - Megoszthat kérdőíveket
 
 
 
