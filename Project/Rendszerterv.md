@@ -7,3 +7,5 @@ A Top G's nevű csapat feladata egy olyan felület fejlesztése, ami széleskör
 
 ### 2.1 Projektszerepkörök, felelőségek:
    * Scrum masters: Szabó Gergő
+   * Product owner: Szabó Gergő
+   * Üzleti szereplő: Tajti Tibor
