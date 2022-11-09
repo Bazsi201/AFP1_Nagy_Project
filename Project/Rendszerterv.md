@@ -19,4 +19,6 @@ A Top G's nevű csapat feladata egy olyan felület fejlesztése, ami széleskör
 
 |Funkció                  | Feladat                                | Prioritás | Becslés (nap) | Aktuális becslés (nap) | Eltelt idő (nap) | Becsült idő (nap) |
 |-------------------------|----------------------------------------|-----------|---------------|------------------------|------------------|---------------------|
-|Követelmény specifikáció |Megírás                                 |         1 |             2 |                      2 |                2 |                   2 |             
+|Követelmény specifikáció |Megírás                                 |         1 |             2 |                      2 |                2 |                   2 |       |Funkcionális specifikáció|Megírás                                 |         1 |             2 |                      2 |                2 |                   2 |
+|Rendszerterv             |Megírás                                 |         1 |             2 |                      2 |                2 |                   2 |
+|Program                  |Képernyőtervek elkészítése              |         2 |             2 |                      2 |                2 |                   2 |      
