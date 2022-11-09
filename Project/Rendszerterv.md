@@ -81,3 +81,9 @@ Mivel egy webes felületet készítünk, ezért elegendő egy számítógép vag
     - **Visual Studio Code**
     - **XAMPP**
     - **Laravel**
+    - 
+## 7. Architekturális terv
+
+A rendszer tökéletes működéséhez szükség van egy adatbázis szerverre, ebben az esetben MySql-t használunk. A bootstrap felel a reszponzív webdesign-ért. A backend php alapon nyugszik, laravel keretrendszerrel.
+
+
