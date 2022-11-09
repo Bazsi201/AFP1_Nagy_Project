@@ -87,7 +87,7 @@ Mivel egy webes felületet készítünk, ezért elegendő egy számítógép vag
 A rendszer tökéletes működéséhez szükség van egy adatbázis szerverre, ebben az esetben MySql-t használunk. A bootstrap felel a reszponzív webdesign-ért. A backend php alapon nyugszik, laravel keretrendszerrel.
 
 ## 8. Adatbázis terv
----
+
 ### *Tábla*
 - *users:* Regisztrált felhasználók
   - *id:* Azonosító szám, a felhasználó egyedi azonosítója
@@ -98,3 +98,17 @@ A rendszer tökéletes működéséhez szükség van egy adatbázis szerverre, e
   - *remember_token:*
   - *created_at: A felhasználó regisztráció dátuma*
   - *updated_at:* A felhasználó utoljára szerkesztett adatai esetén eltárolt időpont
+
+CREATE TABLE IF NOT EXISTS `users` (
+  `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT,
+  `name` varchar(191) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `email` varchar(191) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `email_verified_at` timestamp NULL DEFAULT NULL,
+  `password` varchar(191) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `remember_token` varchar(100) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `users_email_unique` (`email`)
+) ENGINE=MyISAM AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
