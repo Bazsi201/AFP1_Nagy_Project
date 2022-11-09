@@ -261,5 +261,15 @@ COMMIT;
   - *created_at:* A válasz létrejöttének dátuma
   - *updated_at:* A válasz utoljára szerkesztett adatai esetén eltárolt időpont
 
+*Szerkezet*
 
+*DSL*
+CREATE TABLE IF NOT EXISTS `answers` (
+  `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT,
+  `question_id` bigint(20) UNSIGNED NOT NULL,
+  `answer` varchar(191) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=41 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
