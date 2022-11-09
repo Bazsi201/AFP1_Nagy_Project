@@ -198,3 +198,11 @@ INSERT INTO `questions` (`id`, `questionnaire_id`, `question`, `created_at`, `up
 (8, 9, 'What should we do?', '2022-11-03 06:18:39', '2022-11-03 06:18:39'),
 (10, 10, 'new question', '2022-11-03 06:21:17', '2022-11-03 06:21:17');
 COMMIT;
+
+- *questionnaires:* Az elkészített kérdőívek  
+  - *id:* Azonosító szám, a kérdőív egyedi azonosítója
+  - *userd_id:* A felhasználó azonosítója aki létrehozta a kérdőívet
+  - *title:* A kérdőív címe
+  - *purpose:* A kérdőív céljának leírása
+  - *created_at:* A kérdőív létrejöttének dátuma
+  - *updated_at:* A kérdőív utoljára szerkesztett adatai esetén eltárolt időpont
