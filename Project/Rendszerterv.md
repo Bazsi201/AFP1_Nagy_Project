@@ -48,7 +48,9 @@ A Top G's nevű csapat feladata egy olyan felület fejlesztése, ami széleskör
 | K9 | Felület | Megoszthatóság | Link, amellyel bárki a kérdőívhez navigálhatx  |
 | K10 | Felület | Complete Survey | A kérdőív kitöltésének véglegesítése, válaszok leadása |
 
+### Támogatott eszközök
 
+Mivel egy webes felületet készítünk, ezért elegendő egy számítógép vagy bármilyen okos eszköz amin van internetkapcsolat.
 
 
 
