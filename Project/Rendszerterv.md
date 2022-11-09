@@ -304,5 +304,8 @@ A webes felület HTML, CSS és PHP nyelven fog elkészülni, Laravel keretrendsz
 
 A tesztelések célja, hogy meggyőződjünk a felület gombjainak, beviteli mezőinek, illetve minden komponensének működéséről. A teszteléseket minden tag megadott számban elvégzi, különfile-ba dokumentálni fogja.
 
+## 11. Telepítési terv
 
+Mivel egy webes felületről van szó, ezért nem szükséges semmit a számítógépre telepíteni, elegendő egy tetszőleges böngésző és internetkapcsolat.
+Az URL-t ismerve bárki begépelheti a böngésző keresőjébe és elérheti az oldalt.
 
