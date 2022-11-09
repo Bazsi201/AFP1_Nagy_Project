@@ -194,3 +194,7 @@ CREATE TABLE IF NOT EXISTS `questions` (
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM AUTO_INCREMENT=11 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
+INSERT INTO `questions` (`id`, `questionnaire_id`, `question`, `created_at`, `updated_at`) VALUES
+(8, 9, 'What should we do?', '2022-11-03 06:18:39', '2022-11-03 06:18:39'),
+(10, 10, 'new question', '2022-11-03 06:21:17', '2022-11-03 06:21:17');
+COMMIT;
