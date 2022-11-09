@@ -309,3 +309,10 @@ A tesztelések célja, hogy meggyőződjünk a felület gombjainak, beviteli mez
 Mivel egy webes felületről van szó, ezért nem szükséges semmit a számítógépre telepíteni, elegendő egy tetszőleges böngésző és internetkapcsolat.
 Az URL-t ismerve bárki begépelheti a böngésző keresőjébe és elérheti az oldalt.
 
+
+## 12. Karbantartási terv
+
+Figyelembe kell venni a felhasználó által jött visszajelzést is a programmal kapcsolatban.
+Ha hibát talált, mielőbb orvosolni kell, lehet az:
+*	Működéssel kapcsolatos
+*	Kinézet, dizájnnal kapcsolatos
