@@ -168,7 +168,12 @@ CREATE TABLE IF NOT EXISTS `survey_responses` (
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
-
+INSERT INTO `survey_responses` (`id`, `survey_id`, `question_id`, `answer_id`, `created_at`, `updated_at`) VALUES
+(1, 1, 8, 32, '2022-11-03 06:22:40', '2022-11-03 06:22:40'),
+(2, 2, 8, 29, '2022-11-03 06:23:13', '2022-11-03 06:23:13'),
+(3, 3, 8, 31, '2022-11-03 06:23:22', '2022-11-03 06:23:22'),
+(4, 4, 8, 31, '2022-11-03 06:23:25', '2022-11-03 06:23:25');
+COMMIT;
 
 
 
