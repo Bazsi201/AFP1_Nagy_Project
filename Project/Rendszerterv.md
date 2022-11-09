@@ -219,3 +219,10 @@ CREATE TABLE IF NOT EXISTS `questionnaires` (
   `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM AUTO_INCREMENT=11 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+INSERT INTO `questionnaires` (`id`, `user_id`, `title`, `purpose`, `created_at`, `updated_at`) VALUES
+(8, 1, 'Cool purpose', 'Cool title', '2022-11-02 19:01:10', '2022-11-02 19:01:10'),
+(9, 2, 'Cool title', 'Cool purpose', '2022-11-03 06:18:10', '2022-11-03 06:18:10'),
+(10, 2, 'new question', 'new purpose', '2022-11-03 06:20:54', '2022-11-03 06:20:54');
+COMMIT;
+---
