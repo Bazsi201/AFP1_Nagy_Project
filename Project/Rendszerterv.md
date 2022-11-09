@@ -253,3 +253,13 @@ INSERT INTO `migrations` (`id`, `migration`, `batch`) VALUES
 (8, '2022_10_21_104211_create_surveys_table', 1),
 (9, '2022_10_21_104302_create_survey_responses_table', 1);
 COMMIT;
+
+- *answers:* A kérdőívekhez hozzárendelt válaszlehetőség
+  - *id:* Azonosító szám, a válasz egyedi azonosítója
+  - *question_id:* A kérdőív egyedi azonosítója
+  - *answer_id:* Válaszlehetőség
+  - *created_at:* A válasz létrejöttének dátuma
+  - *updated_at:* A válasz utoljára szerkesztett adatai esetén eltárolt időpont
+
+
+
