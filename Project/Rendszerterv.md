@@ -42,7 +42,9 @@ A Top G's nevű csapat feladata egy olyan felület fejlesztése, ami széleskör
 | K3 | Felület | Add new question | Új kérdés hozzáadása a kérdőívhez  |
 | K4 | Felület | Register | Új felhasználó hozzáadása a felület adatbázisához |
 | K5 | Felület | Create Questionnaire | Új kérdőív hozzáadása a felület adatbázisához |
-
+| K6 | Felület | Add question | Új kérdés hozzáadása a kérdőívhez |
+| K7 | Felület | Add new question | Elnavigál a K6 funkció felületéhez |
+| K8 | Felület | Delete question | Törli a kiválasztott/akkor szerkesztett kérdést |
 
 
 
