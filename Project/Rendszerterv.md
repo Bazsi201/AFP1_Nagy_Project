@@ -155,7 +155,18 @@ COMMIT;
   - *created_at:* A kérdőív létrejöttének dátuma
   - *updated_at:* A kérdőív utoljára szerkesztett adatai esetén eltárolt időpont
 
+*Szerkezet*
 
+*DSL*
+CREATE TABLE IF NOT EXISTS `survey_responses` (
+  `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT,
+  `survey_id` bigint(20) UNSIGNED NOT NULL,
+  `question_id` bigint(20) UNSIGNED NOT NULL,
+  `answer_id` bigint(20) UNSIGNED NOT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 
 
