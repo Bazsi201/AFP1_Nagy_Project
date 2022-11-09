@@ -241,3 +241,15 @@ CREATE TABLE IF NOT EXISTS `migrations` (
   `batch` int(11) NOT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM AUTO_INCREMENT=10 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+INSERT INTO `migrations` (`id`, `migration`, `batch`) VALUES
+(1, '2014_10_12_000000_create_users_table', 1),
+(2, '2014_10_12_100000_create_password_resets_table', 1),
+(3, '2019_08_19_000000_create_failed_jobs_table', 1),
+(4, '2019_12_14_000001_create_personal_access_tokens_table', 1),
+(5, '2022_10_18_134945_create_questionnaires_table', 1),
+(6, '2022_10_19_163622_create_questions_table', 1),
+(7, '2022_10_19_163653_create_answers_table', 1),
+(8, '2022_10_21_104211_create_surveys_table', 1),
+(9, '2022_10_21_104302_create_survey_responses_table', 1);
+COMMIT;
