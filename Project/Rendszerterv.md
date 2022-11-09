@@ -231,3 +231,13 @@ COMMIT;
   - *id:* Azonosító szám, a migráció egyedi azonosítója
   - *migration:*
   - *batch:*
+
+*Szerkezet*
+
+*DSL*
+CREATE TABLE IF NOT EXISTS `migrations` (
+  `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT,
+  `migration` varchar(191) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `batch` int(11) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=10 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
