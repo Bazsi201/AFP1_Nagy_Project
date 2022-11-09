@@ -175,5 +175,12 @@ INSERT INTO `survey_responses` (`id`, `survey_id`, `question_id`, `answer_id`, `
 (4, 4, 8, 31, '2022-11-03 06:23:25', '2022-11-03 06:23:25');
 COMMIT;
 
+- *questions:* A kérdések melyek a kérdőívben szerepelnek
+  - *id:* Azonosító szám, a kérdések egyedi azonosítója
+  - *question_id:* A kérdőív egyedi azonosítója
+  - *question:* A kérdést tartalmazó mező
+  - *created_at:* A kérdés létrejöttének dátuma
+  - *updated_at:* A kérdés utoljára szerkesztett adatai esetén eltárolt időpont
+
 
 
