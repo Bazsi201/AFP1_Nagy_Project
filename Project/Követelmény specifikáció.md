@@ -28,6 +28,12 @@ A megrendelő és a felhasználók akár otthon ülve is képes kezelni a kérd�
 | K2 | Felület | Login | A megadott felhasunálónév és jelszó kombináció beléptetése a felületre |
 | K3 | Felület | Add new question | Új kérdés hozzáadása a kérdőívhez  |
 | K4 | Felület | Register | Új felhasználó hozzáadása a felület adatbázisához |
+| K5 | Felület | Create Questionnaire | Új kérdőív hozzáadása a felület adatbázisához |
+| K6 | Felület | Add question | Új kérdés hozzáadása a kérdőívhez |
+| K7 | Felület | Add new question | Elnavigál a K6 funkció felületéhez |
+| K8 | Felület | Delete question | Törli a kiválasztott/akkor szerkesztett kérdést |
+| K9 | Felület | Megoszthatóság | Link, amellyel bárki a kérdőívhez navigálhatx  |
+| K10 | Felület | Complete Survey | A kérdőív kitöltésének véglegesítése, válaszok leadása |
 
 ## 7. Fogalomtár
 
