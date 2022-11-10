@@ -63,3 +63,8 @@ K9: Megoszthatóság | Link, amellyel bárki a kérdőívhez navigálhatx
 K10: Complete Survey  A kérdőív kitöltésének véglegesítése, válaszok leadása
 
 ## 11 Fogalomszótár
+
+| Fogalom | Leírás |
+| :---: | --- |
+| Reszponzív felület | Az alkalmazás kompatibilis más elektronikus eszközökön is, így lehet használni számítógépről, tabletről, laptopról és telefonról is, mert alkalmazkodik az eszköz kijelzőjéhez! |
+| UML | Unified Modeling Language |
