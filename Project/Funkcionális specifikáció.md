@@ -37,6 +37,10 @@ A be nem regisztrált felhasználó kitöltheti a kérdőíveket, illetve megosz
 
 ## 7. Megfeleltetés, hogyan fedik le a használati eseteket a követelményeket
 
+K1, K2, K4: Belépőrendszer kezelése, felhasználó megjegyzése, regisztrálás, belépés
+K3, K5, K6, K7, K8, K9: A kérdőív műveletei. Létrehozása, módosítása, törlése, megosztása.
+K10: Kérdőív eredményeinek leadása, véglegesítése.
+
 ## 8. Képernyőtervek
 
 ![képnév](gitlink ahol a kép van)
