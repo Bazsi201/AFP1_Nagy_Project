@@ -1,6 +1,8 @@
 # Funkcionális specifikáció
 ## 1. Jelenlegi helyzet leírása
-A kérdőív a mai világban nagyon hasznos dolog! A kérdőív alapvetően az információszerzésre irányul, maga az információszerzés a kérdőívben kérdések formájában nyílvánul meg! A kérdőív legtöbbször anonim, szóval a személyes adataink is biztonságban vannak! 
+
+Jelenleg a megrendelő minden felmérést papíralapon végez, ezzel feleslegesen sok hulladékot termel. Arról nem is beszélve, hogy nagyban megnehezíti az adatok gyors, hatékony kiértékelését. Esetenként megtörténik az is, hogy a kérdőívek egy része, vagy akár egésze elveszik/megsérül. Ezen felmerülő problémákat szeretnénk megoldani, illetve megkönnyteni. A megrendelő mindeképpen online felületet szeretne, amit bárhonnan elérhetnek, könnyen kitölthetnek a felhasználók.
+
 ## 2. Vágyálomrendszer leírása
 
 ## 3. Jelenlegi üzleti folyamatok modellje
