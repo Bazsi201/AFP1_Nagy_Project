@@ -43,7 +43,9 @@ K10: Kérdőív eredményeinek leadása, véglegesítése.
 
 ## 8. Képernyőtervek
 
-![képnév](gitlink ahol a kép van)
+![Login](./Pictures/Login.png)
+
+![Regisztráció](./Pictures/Reg_page.png)
 
 ## 9. Forgatókönyvek
 
