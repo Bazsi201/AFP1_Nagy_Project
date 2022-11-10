@@ -249,6 +249,8 @@ COMMIT;
 
 *Szerkezet*
 
+![migrations](./Pictures/migrations.png)
+
 *DSL*
 CREATE TABLE IF NOT EXISTS `migrations` (
   `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT,
