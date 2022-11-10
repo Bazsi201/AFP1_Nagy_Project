@@ -20,6 +20,15 @@ A jelenlegi renszerben minden kérdőív folyamata úgy kezdődik, hogy létreho
 
 A megrendelő és a felhasználók akár otthon ülve is képes kezelni a kérdőíveket, illetve jogosultságtól függően műveleteket végezni velük. Bárhonnan lekérhetőek az eredmények, statisztikák. Ezzel növelve a kényelmet, illetve a hatékonyságot, hiszen nem kell megvárni az adatok manuális kezelését, illetve nem kell kikeresni a lefűzött mappában ezeket.
 
+## 6. Követelménylista
+
+| Id | Modul | Név | Leírás |
+| :---: | --- | --- | --- |
+| K1 | Felület | Remember me | Tick-box a belépési adatok tárolásának eldöntésére |
+| K2 | Felület | Login | A megadott felhasunálónév és jelszó kombináció beléptetése a felületre |
+| K3 | Felület | Add new question | Új kérdés hozzáadása a kérdőívhez  |
+| K4 | Felület | Register | Új felhasználó hozzáadása a felület adatbázisához |
+
 ## 7. Fogalomtár
 
 HTML (Hypertext Markup Language) : A HTML egy olyan nyelv, melyet weboldalak elkészítésére használhatunk. Minden weboldal mögött HTML található.
