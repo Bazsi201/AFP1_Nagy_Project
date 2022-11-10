@@ -126,7 +126,7 @@ COMMIT;
 
 *Szerkezet*
 
-![surveys](Project/Pictures/surveys.png)
+![surveys](./Pictures/surveys.png)
 
 -------------------------------------
 
