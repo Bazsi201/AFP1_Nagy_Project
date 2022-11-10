@@ -116,6 +116,8 @@ INSERT INTO `users` (`id`, `name`, `email`, `email_verified_at`, `password`, `re
 (1, 'Szabó László Zsolt', 'zsoltisw@gmail.com', NULL, '$2y$10$yq2vQkYDb6p/oAWky5sOcuVIMurAY23pfkitMkZIYfjxU5mIDkSem', NULL, '2022-11-02 17:30:35', '2022-11-02 17:30:35');
 COMMIT;
 
+-------------------------------------
+
 - *surveys:* Regisztrált felhasználók által készített kérdőívek
   - *id:* Azonosító szám, a kérdőív egyedi azonosítója
   - *questionnaire_id:* A kérdőívet készítő felhasználó azonosítója
@@ -127,8 +129,6 @@ COMMIT;
 *Szerkezet*
 
 ![surveys](./Pictures/surveys.png)
-
--------------------------------------
 
 *DSL*
 
@@ -149,6 +149,8 @@ INSERT INTO `surveys` (`id`, `questionnaire_id`, `name`, `email`, `created_at`, 
 (4, 9, 'zsolt', 'zsolt@gmail.com', '2022-11-03 06:23:25', '2022-11-03 06:23:25');
 COMMIT;
 
+-------------------------------------
+
 - *surveys_responses:* A kérdőívek kitöltött statisztikája
   - *id:* Azonosító szám, a kitöltött kérdőív egyedi azonosítója
   - *survey_id:* A kérdőív  azonosítója
@@ -158,6 +160,8 @@ COMMIT;
   - *updated_at:* A kérdőív utoljára szerkesztett adatai esetén eltárolt időpont
 
 *Szerkezet*
+
+![survey_responses](./Pictures/survey_responses.png)
 
 *DSL*
 CREATE TABLE IF NOT EXISTS `survey_responses` (
@@ -176,6 +180,8 @@ INSERT INTO `survey_responses` (`id`, `survey_id`, `question_id`, `answer_id`, `
 (3, 3, 8, 31, '2022-11-03 06:23:22', '2022-11-03 06:23:22'),
 (4, 4, 8, 31, '2022-11-03 06:23:25', '2022-11-03 06:23:25');
 COMMIT;
+
+-------------------------------------
 
 - *questions:* A kérdések melyek a kérdőívben szerepelnek
   - *id:* Azonosító szám, a kérdések egyedi azonosítója
@@ -200,6 +206,8 @@ INSERT INTO `questions` (`id`, `questionnaire_id`, `question`, `created_at`, `up
 (8, 9, 'What should we do?', '2022-11-03 06:18:39', '2022-11-03 06:18:39'),
 (10, 10, 'new question', '2022-11-03 06:21:17', '2022-11-03 06:21:17');
 COMMIT;
+
+-------------------------------------
 
 - *questionnaires:* Az elkészített kérdőívek  
   - *id:* Azonosító szám, a kérdőív egyedi azonosítója
@@ -227,7 +235,8 @@ INSERT INTO `questionnaires` (`id`, `user_id`, `title`, `purpose`, `created_at`,
 (9, 2, 'Cool title', 'Cool purpose', '2022-11-03 06:18:10', '2022-11-03 06:18:10'),
 (10, 2, 'new question', 'new purpose', '2022-11-03 06:20:54', '2022-11-03 06:20:54');
 COMMIT;
----
+
+-------------------------------------
 
 - *migrations:* 
   - *id:* Azonosító szám, a migráció egyedi azonosítója
@@ -255,6 +264,8 @@ INSERT INTO `migrations` (`id`, `migration`, `batch`) VALUES
 (8, '2022_10_21_104211_create_surveys_table', 1),
 (9, '2022_10_21_104302_create_survey_responses_table', 1);
 COMMIT;
+
+-------------------------------------
 
 - *answers:* A kérdőívekhez hozzárendelt válaszlehetőség
   - *id:* Azonosító szám, a válasz egyedi azonosítója
