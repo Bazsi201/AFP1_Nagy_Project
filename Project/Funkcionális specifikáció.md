@@ -32,6 +32,9 @@ A megrendelő és a felhasználók akár otthon ülve is képes kezelni a kérd�
 
 ## 6. Használati esetek
 
+A regisztrált felhasználó kérdőívet hoz létre, kérdéseket ad hozzá, szerekesztheti ezeket. Szükség esetén törölheti is. Láthatja a kérdőív statisztikáit is. Lehetősége lesz megosztani is ezt a be nem regisztrált felhasználókkal. 
+A be nem regisztrált felhasználó kitöltheti a kérdőíveket, illetve megoszthatja ezeket ismerőseivel.
+
 ## 7. Megfeleltetés, hogyan fedik le a használati eseteket a követelményeket
 
 ## 8. Képernyőtervek
