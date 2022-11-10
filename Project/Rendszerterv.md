@@ -126,6 +126,8 @@ COMMIT;
 
 *Szerkezet*
 
+![surveys](Project/Pictures/surveys.png)
+
 -------------------------------------
 
 *DSL*
