@@ -13,6 +13,8 @@ A jelenlegi renszerben minden kérdőív folyamata úgy kezdődik, hogy létreho
 
 ## 4. Igényelt üzleti folyamatok modellje
 
+A megrendelő és a felhasználók akár otthon ülve is képes kezelni a kérdőíveket, illetve jogosultságtól függően műveleteket végezni velük. Bárhonnan lekérhetőek az eredmények, statisztikák. Ezzel növelve a kényelmet, illetve a hatékonyságot, hiszen nem kell megvárni az adatok manuális kezelését, illetve nem kell kikeresni a lefűzött mappában ezeket.
+
 ## 5. Követelménylista
 
 | Id | Modul | Név | Leírás |
