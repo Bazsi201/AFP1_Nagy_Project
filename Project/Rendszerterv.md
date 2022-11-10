@@ -221,6 +221,8 @@ COMMIT;
 
 *Szerkezet*
 
+![questionnaires](./Pictures/questionnaires.png)
+
 *DSL*
 CREATE TABLE IF NOT EXISTS `questionnaires` (
   `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT,
