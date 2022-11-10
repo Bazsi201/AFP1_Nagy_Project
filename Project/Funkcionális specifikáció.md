@@ -47,6 +47,10 @@ K10: Kérdőív eredményeinek leadása, véglegesítése.
 
 ![Regisztráció](./Pictures/Reg_page.png)
 
+![Kérdés_hozzáadása](./Pictures/Kérdések_add.png)
+
+![Statisztika](./Pictures/Statisztika.png)
+
 ## 9. Forgatókönyvek
 
 Megrendelőnk cégében fejlesztéseket infrastruktúrális fejlesztéseket terveznek, amihez szükség lenne az ott dolgozók véleményére. Mivel az eredményekre szűkös határidőn belül van szükség, ezért az automatizált online forma sokkal produktív, mint az eddig használt papíralapú.
