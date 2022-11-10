@@ -19,11 +19,11 @@ A megrendelő és a felhasználók akár otthon ülve is képes kezelni a kérd�
 
 | Id | Modul | Név | Leírás |
 | :---: | --- | --- | --- |
-| K1 |Jogosultság| Regisztráció |Amennyiben új felhasználó szeretne bejelentkezni, akkor először regisztrálni kell magát! A felhasználó megadja a nevét, e-mail címét és lehetőleg egy erős jelszót, amit a hagyomány szerint kétszer kell megadni. Ha valamelyik hiányzik, vagy az e-mail címmel problémák vannak, akkor a rendszer egy üzenettel értesíti a felhasználót az adott problémáról! |
-| K2 | Jogosultság| Bejelentkezés | Amennyiben regisztrált a felhasználó, előbb be kell jelentkeznie, hogy kérdőívet szerkesszen! Ha az e-mail cím, vagy a jelszó nem megfelelő, vagy hiányos valamelyik adat, akkor hibaüzenetet kap a felhasználó! |
-| K3| Felület | Kérdőív létrehozás | Ez egy olyan felület, ahol kérdőívet lehet létrehozni! Itt meg kell adni a címet és a célközönséget is! A helyes célközönség kiválasztása növeli a válaszok számát!|
-| K4 | Felület | Kérdések felvitele | A kérdőív létrehozása után az adott kérdőívhez a kérdéseket és a lehetséges válaszokat is meg kell adni! |
-| K5| Felület | Kitöltő felület | A felhasználó itt tudja a kérdőívet kitölteni és utána megadva a nevét és az e-mail címét eltudja küldeni a válaszokat! |
+| K1 | Felület | Remember me | Tick-box a belépési adatok tárolásának eldöntésére |
+| K2 | Felület | Login | A megadott felhasunálónév és jelszó kombináció beléptetése a felületre |
+| K3 | Felület | Add new question | Új kérdés hozzáadása a kérdőívhez  |
+| K4 | Felület | Register | Új felhasználó hozzáadása a felület adatbázisához |
+
 ## 6. Használati esetek
 
 ## 7. Megfeleltetés, hogyan fedik le a használati eseteket a követelményeket
