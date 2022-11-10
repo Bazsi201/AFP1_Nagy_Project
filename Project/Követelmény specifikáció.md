@@ -19,3 +19,9 @@ A jelenlegi renszerben minden kérdőív folyamata úgy kezdődik, hogy létreho
 ## 5. Igényelt üzleti folyamatok modellje
 
 A megrendelő és a felhasználók akár otthon ülve is képes kezelni a kérdőíveket, illetve jogosultságtól függően műveleteket végezni velük. Bárhonnan lekérhetőek az eredmények, statisztikák. Ezzel növelve a kényelmet, illetve a hatékonyságot, hiszen nem kell megvárni az adatok manuális kezelését, illetve nem kell kikeresni a lefűzött mappában ezeket.
+
+## 7. Fogalomtár
+
+HTML (Hypertext Markup Language) : A HTML egy olyan nyelv, melyet weboldalak elkészítésére használhatunk. Minden weboldal mögött HTML található.
+
+PHP : egy általános szerveroldali szkriptnyelv dinamikus weblapok készítésére.
