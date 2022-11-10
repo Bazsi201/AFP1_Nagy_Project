@@ -9,6 +9,8 @@ A megrendelő olyan felületet szeretne, ami lehetővé teszi kérdőívek létr
 
 ## 3. Jelenlegi üzleti folyamatok modellje
 
+A jelenlegi renszerben minden kérdőív folyamata úgy kezdődik, hogy létrehoznak egy általános kérdőív sémát. Ezt sokszorosítják és köztereken, plázákban, vagy nagy közönséget megmozgató helyeken osztani kezdik. A kérdőívek nagy része nem kerül vissza, használhatatlan állapotban(ezt a felületen a fix, előremegadott válaszokkal küszöböljük ki) jut vissza. Minden manuális folyamatot automatizálunk, így a kérdőív létrehozásától kezdve a kiértékelésen keresztül minden online fog történni.
+
 ## 4. Igényelt üzleti folyamatok modellje
 
 ## 5. Követelménylista
