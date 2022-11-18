@@ -16,23 +16,25 @@
                             <label for="title">Title</label>
                             <input name="title" type="text" class="form-control" id="title" aria-describedby="title" placeholder="Enter title">
                             <small id="titleHelp" class="form-text text-muted">Give your questionnaire a title that attracts attention.</small>
-                        </div>
 
                         @error('title')
                             <br>
                             <small class="text-danger">{{ $message }}</small>
                         @enderror
 
+                        </div>
+
                         <div class="form-group">
                             <label for="purpose">Purpose</label>
                             <input name="purpose" type="text" class="form-control" id="purpose" aria-describedby="purpose" placeholder="Enter purpose">
                             <small id="purposeHelp" class="form-text text-muted">Giving a purpose will increase responses.</small>
-                        </div>
 
                         @error('purpose')
                             <br>
                             <small class="text-danger">{{ $message }}</small>
                         @enderror
+
+                        </div>
 
                         <button type="submit" class="btn btn-primary">Create questionnaire</button>
                     </form>
