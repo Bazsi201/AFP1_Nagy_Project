@@ -20,17 +20,7 @@ Route::get('/', function () {
 
 Route::get('/questionnaires/create', [QuestionnaireController::class,'create']);
 
-Auth::routes();
-
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
-
-Auth::routes();
-
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
-
-Auth::routes();
-
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+Route::post('/questionnaires', [QuestionnaireController::class,'store']);
 
 Auth::routes();
 
