@@ -10,4 +10,8 @@ class Answer extends Model
     use HasFactory;
 
     protected $guarded = [];
+
+    public function question() {
+        return $this->BelongsTo(Question::class);
+    }
 }
