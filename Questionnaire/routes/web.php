@@ -22,6 +22,8 @@ Route::get('/questionnaires/create', [QuestionnaireController::class,'create']);
 
 Route::post('/questionnaires', [QuestionnaireController::class,'store']);
 
+Route::get('/questionnaires/{questionnaire}', [QuestionnaireController::class,'show']);
+
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
