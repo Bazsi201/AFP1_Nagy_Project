@@ -18,11 +18,21 @@
                             <small id="titleHelp" class="form-text text-muted">Give your questionnaire a title that attracts attention.</small>
                         </div>
 
+                        @error('title')
+                            <br>
+                            <small class="text-danger">{{ $message }}</small>
+                        @enderror
+
                         <div class="form-group">
                             <label for="purpose">Purpose</label>
                             <input name="purpose" type="text" class="form-control" id="purpose" aria-describedby="purpose" placeholder="Enter purpose">
                             <small id="purposeHelp" class="form-text text-muted">Giving a purpose will increase responses.</small>
                         </div>
+
+                        @error('purpose')
+                            <br>
+                            <small class="text-danger">{{ $message }}</small>
+                        @enderror
 
                         <button type="submit" class="btn btn-primary">Create questionnaire</button>
                     </form>
