@@ -23,6 +23,8 @@
                             <input name="purpose" type="text" class="form-control" id="purpose" aria-describedby="purpose" placeholder="Enter purpose">
                             <small id="purposeHelp" class="form-text text-muted">Giving a purpose will increase responses.</small>
                         </div>
+
+                        <button type="submit" class="btn btn-primary">Create questionnaire</button>
                     </form>
                 </div>
             </div>
