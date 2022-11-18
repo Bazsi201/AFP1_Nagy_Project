@@ -14,4 +14,8 @@ class Question extends Model
     public function questionnare() {
         return $this->belongsTo(Questionnaire::class);
     }
+
+    public function answers() {
+        return $this->hasMany(Answer::class);
+    }
 }
