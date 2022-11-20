@@ -18,6 +18,11 @@
                             value="{{ old('question.question') }}" id="question" aria-describedby="question" placeholder="Enter question">
                             <small id="questionHelp" class="form-text text-muted">Ask simple and to-the-point questions for best results.</small>
 
+                            @error('question.question')
+                            <br>
+                            <small class="text-danger">{{ $message }}</small>
+                            @enderror
+                            
                         </div>
                     </form>
                 </div>
