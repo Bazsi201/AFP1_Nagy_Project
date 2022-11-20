@@ -26,6 +26,8 @@ Route::get('/questionnaires/{questionnaire}', [QuestionnaireController::class,'s
 
 Route::get('/questionnaires/{questionnaire}/questions/create',[QuestionController::class, 'create']);
 
+Route::post('/questionnaires/{questionnaire}/questions',[QuestionController::class, 'store']);
+
 
 Auth::routes();
 
