@@ -7,6 +7,13 @@
             <div class="card">
                 <div class="card-header">{{ __('Create new question') }}</div>
 
+                <div class="card-body">
+                    <form action="/questionnaires/{{ $questionnaire->id }}/questions" method="post">
+                    
+                        @csrf
+
+                    </form>
+                </div>
                 
             </div>
         </div>
