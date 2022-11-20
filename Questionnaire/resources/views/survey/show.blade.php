@@ -14,6 +14,11 @@
                     <div class="card mt-4">
                         <div class="card-header"><strong>{{ $key + 1 }}</strong> {{ $question->question }}</div>
                             <div class="card-body">
+
+                                @error('responses.' . $key . '.answer_id')
+                                    <small class="text-danger">{{ $message }}</small>
+                                @enderror
+                                
                                 <ul class="list-group">
                                     @foreach ($question->answers as $answer)
                                         <label for="answer{{ $answer->id }}">
