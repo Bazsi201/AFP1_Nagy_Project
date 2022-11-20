@@ -56,6 +56,16 @@
                                         @enderror
                                     </div>
                                 </div>
+
+                                <div>
+                                    <div class="form-group">
+                                        <label for="answer3">Choice 3</label>
+                                        <input name="answers[][answer]" type="text" class="form-control" id="answer3" 
+                                        value="{{ old('answers.2.answer') }}" aria-describedby="choicesHelp" placeholder="Enter choice 3">
+            
+                                        
+                                    </div>
+                                </div>
                             </fieldset>
                         </div>
 
