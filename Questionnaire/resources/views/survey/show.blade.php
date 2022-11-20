@@ -55,7 +55,10 @@
                                 <input name="survey[email]" type="email" class="form-control" id="email" aria-describedby="email" placeholder="Enter email">
                                 <small id="emailHelp" class="form-text text-muted">Your email, please!</small>
 
-                                
+                                @error('survey.email')
+                                <br>
+                                <small class="text-danger">{{ $message }}</small>
+                                @enderror                                
                             </div>
                             <div>
                                 <button class="btn btn-dark" type="submit">Complete survey</button>
