@@ -54,6 +54,9 @@
 
                                 
                             </div>
+                            <div>
+                                <button class="btn btn-dark" type="submit">Complete survey</button>
+                            </div>
                         </div>
                 </div>
             </form>
