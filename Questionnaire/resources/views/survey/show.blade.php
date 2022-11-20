@@ -44,7 +44,10 @@
                                 <input name="survey[name]" type="text" class="form-control" id="name" aria-describedby="name" placeholder="Enter name">
                                 <small id="nameHelp" class="form-text text-muted">Hello! What's your name?</small>
                                 
-                                
+                                @error('survey.name')
+                                <br>
+                                <small class="text-danger">{{ $message }}</small>
+                                @enderror
                             </div>
 
                             <div class="form-group">
