@@ -76,7 +76,10 @@
                                         <input name="answers[][answer]" type="text" class="form-control" id="answer4" 
                                         value="{{ old('answers.3.answer') }}" aria-describedby="choicesHelp" placeholder="Enter choice 4">
             
-                                        
+                                        @error('answers.3.answer')
+                                        <br>
+                                        <small class="text-danger">{{ $message }}</small>
+                                        @enderror
                                     </div>
                                 </div>
                             </fieldset>
