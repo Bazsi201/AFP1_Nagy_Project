@@ -16,5 +16,9 @@ class QuestionController extends Controller
             'answers.*.answer' => 'required',
         ]);
 
+        $question = $questionnaire->questions()->create($data['question']);
+        $question->answers()->createMany($data['answers']);
+
+        return redirect('/questionnaires/'.$questionnaire->id);
     }
 }
