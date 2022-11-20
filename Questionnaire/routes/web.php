@@ -30,6 +30,7 @@ Route::get('/questionnaires/{questionnaire}/questions/create',[QuestionControlle
 
 Route::post('/questionnaires/{questionnaire}/questions',[QuestionController::class, 'store']);
 
+Route::post('surveys/{questionnaire}-{slug}',[SurveyController::class, 'store']);
 
 Auth::routes();
 
