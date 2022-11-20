@@ -16,7 +16,9 @@
                             <div class="card-body">
                                 <ul class="list-group">
                                     @foreach ($question->answers as $answer)
+                                        <label for="answer{{ $answer->id }}">
                                             <li class="list-group-item">
+                                                <input type="radio" name="responses[{{ $key }}][answer_id]" id="answer{{ $answer->id }}" value="{{ $answer->id }}">
                                                 {{ $answer->answer }}
                                             </li>
                                         </label>
