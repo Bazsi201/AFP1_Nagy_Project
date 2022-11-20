@@ -22,8 +22,16 @@
                             <br>
                             <small class="text-danger">{{ $message }}</small>
                             @enderror
-                            
+
                         </div>
+
+                        <div class="form-group">
+                            <fieldset>
+                                <legend>Choices</legend>
+                                <small id="choicesHelp" class="form-text text-muted">Give choices that give you the most insight into your question.</small>
+                            </fieldset>
+                        </div>
+
                     </form>
                 </div>
                 
