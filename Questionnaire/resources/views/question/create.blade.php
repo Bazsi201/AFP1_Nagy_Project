@@ -85,6 +85,8 @@
                             </fieldset>
                         </div>
 
+                        <button type="submit" class="btn btn-primary">Add question</button>
+                        
                     </form>
                 </div>
                 
