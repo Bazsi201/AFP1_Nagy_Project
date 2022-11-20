@@ -46,6 +46,14 @@
                                 
                                 
                             </div>
+
+                            <div class="form-group">
+                                <label for="email">Your email</label>
+                                <input name="survey[email]" type="email" class="form-control" id="email" aria-describedby="email" placeholder="Enter email">
+                                <small id="emailHelp" class="form-text text-muted">Your email, please!</small>
+
+                                
+                            </div>
                         </div>
                 </div>
             </form>
