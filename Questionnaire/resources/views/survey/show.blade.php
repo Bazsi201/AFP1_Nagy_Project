@@ -39,7 +39,13 @@
                 <div class="card mt-4">
                     <div class="card-header">Your information</div>
                         <div class="card-body">
-                            
+                            <div class="form-group">
+                                <label for="name">Your name</label>
+                                <input name="survey[name]" type="text" class="form-control" id="name" aria-describedby="name" placeholder="Enter name">
+                                <small id="nameHelp" class="form-text text-muted">Hello! What's your name?</small>
+                                
+                                
+                            </div>
                         </div>
                 </div>
             </form>
