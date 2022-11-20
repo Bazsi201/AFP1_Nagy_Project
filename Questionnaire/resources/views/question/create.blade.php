@@ -40,6 +40,16 @@
                                         <br>
                                         <small class="text-danger">{{ $message }}</small>
                                         @enderror
+
+                                    </div>
+                                </div>
+
+                                <div>
+                                    <div class="form-group">
+                                        <label for="answer2">Choice 2</label>
+                                        <input name="answers[][answer]" type="text" class="form-control" 
+                                        value="{{ old('answers.1.answer') }}" id="answer2" aria-describedby="choicesHelp" placeholder="Enter choice 2">
+            
                                         
                                     </div>
                                 </div>
