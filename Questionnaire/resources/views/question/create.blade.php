@@ -29,6 +29,15 @@
                             <fieldset>
                                 <legend>Choices</legend>
                                 <small id="choicesHelp" class="form-text text-muted">Give choices that give you the most insight into your question.</small>
+
+                                <div>
+                                    <div class="form-group">
+                                        <label for="answer1">Choice 1</label>
+                                        <input name="answers[][answer]" type="text" class="form-control" 
+                                        value="{{ old('answers.0.answer') }}" id="answer1" aria-describedby="choicesHelp" placeholder="Enter choice 1">
+
+                                    </div>
+                                </div>
                             </fieldset>
                         </div>
 
