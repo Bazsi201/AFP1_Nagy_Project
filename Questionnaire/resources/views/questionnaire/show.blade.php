@@ -12,6 +12,21 @@
                 </div>
                 
             </div>
+
+            @foreach ($questionnaire->questions as $question)
+            <div class="card mt-4">
+                <div class="card-header">{{ $question->question }}</div>
+                    <div class="card-body">
+                        <ul class="list-group">
+                            @foreach ($question->answers as $answer)
+                                <li class="list-group-item d-flex justify-content-between">
+                                    <div>{{ $answer->answer }}</div>
+                                </li>
+                            @endforeach
+                        </ul>
+                    </div>
+            </div>
+            @endforeach
         </div>
     </div>
 </div>
