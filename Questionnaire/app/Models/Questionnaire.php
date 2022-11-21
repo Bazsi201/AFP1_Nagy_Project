@@ -26,4 +26,8 @@ class Questionnaire extends Model
     public function path() {
         return url('/questionnaires/'.$this->id);
     }
+
+    public function publicPath() {
+        return url('/surveys/'.$this->id.'-'.Str::slug($this->title));
+    }
 }
