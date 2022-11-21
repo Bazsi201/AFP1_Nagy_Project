@@ -35,6 +35,8 @@ Route::get('/surveys/{questionnaire}-{slug}',[SurveyController::class,'show']);
 
 Route::post('surveys/{questionnaire}-{slug}',[SurveyController::class, 'store']);
 
+Route::delete('/questionnaires/{questionnaire}/questions/{question}',[QuestionController::class, 'delete']);
+
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
