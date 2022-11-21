@@ -22,4 +22,8 @@ class Questionnaire extends Model
     public function surveys() {
         return $this->hasMany(Survey::class);
     }
+
+    public function path() {
+        return url('/questionnaires/'.$this->id);
+    }
 }
