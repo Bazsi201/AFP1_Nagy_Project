@@ -59,13 +59,13 @@ Megrendelőnk cégében fejlesztéseket infrastruktúrális fejlesztéseket terv
 
 K1: Remember me - Tick-box a belépési adatok tárolásának eldöntésére.
 
-K2: Login - A megadott felhasunálónév és jelszó kombináció beléptetése a felületre .
+K2: Login - A megadott felhasunálónév és jelszó kombináció beléptetése a felületre.
 
 K3: Add new question - Új kérdés hozzáadása a kérdőívhez.
 
 K4: Register - Új felhasználó hozzáadása a felület adatbázisához.
 
-K5: Create Questionnaire | Új kérdőív hozzáadása a felület adatbázisához.
+K5: Create Questionnaire - Új kérdőív hozzáadása a felület adatbázisához.
 
 K6: Add question - Új kérdés hozzáadása a kérdőívhez.
 
@@ -73,7 +73,7 @@ K7: Add new question - Elnavigál a K6 funkció felületéhez.
 
 K8: Delete question - Törli a kiválasztott/akkor szerkesztett kérdést.
 
-K9: Megoszthatóság - Link, amellyel bárki a kérdőívhez navigálhatx.
+K9: Megoszthatóság - Link, amellyel bárki a kérdőívhez navigálhat.
 
 K10: Complete Survey - A kérdőív kitöltésének véglegesítése, válaszok leadása.
 
@@ -83,5 +83,3 @@ K10: Complete Survey - A kérdőív kitöltésének véglegesítése, válaszok 
 | :---: | --- |
 | Reszponzív felület | Az alkalmazás kompatibilis más elektronikus eszközökön is, így lehet használni számítógépről, tabletről, laptopról és telefonról is, mert alkalmazkodik az eszköz kijelzőjéhez! |
 | UML | Unified Modeling Language |
-| Autentikáció | Hitelesítés. (A projekt esetében: Ne kelljen külön felhasználói fiókot arra létrehozni, hogy kitöltsünk egy kérdőívet.) |
-| Hivatkozás | Az elérési út, amin keresztül megnyílik egy kérdőív, másnéven egy link. |
