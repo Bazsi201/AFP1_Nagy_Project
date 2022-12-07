@@ -49,6 +49,6 @@ A végleges tesztelésnél prioritást élvez a Béta teszt során még hibásna
 | Vizsgálat | Tesztelés időpontja | Elvárás | Eredmény | Hibák |
 | :---: | --- | --- | --- | --- |
 | Adatbázis | 2022.12.05. | Adatbázis működés ellenőrzése. | A táblák a küldött adatokat sikeresen rögzítik, adatvesztés nincs | Hibát nem találtam |
-
+| Regisztráció | 2022.12.05. | Regisztrálás a weboldalra. | A funkció korábban javítva lett, a regisztráció megtörténik | Hibát nem találtam |
 
 
