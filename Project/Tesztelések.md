@@ -93,5 +93,14 @@ A következő tesztelés során tesztelésre kerül a többi funkció is.
 | Vizsgálat | Tesztelés időpontja | Elvárás | Eredmény | Hibák |
 | :---: | --- | --- | --- | --- |
 | Bejelentkezési menüpont | 2022.11.29. | A Remember me gombbal tárolhatóvá válik az utolsó belépő | Be- majd kijelentkezés után az utolsó belépés adatai megjegyzésre kerültek. | Nem találtam problémát. |
+| Menüpont tesztelés | 2022.11.29. | Add new question gombbal a kérdés létrehozás felület jelenik meg | Gombrakattintás után sikeresen hoztam létre kérdést | Nem találtam problémát. |
+
+
+
+
+
+
+
+
 
 
