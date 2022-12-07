@@ -27,7 +27,7 @@ A következő tesztelés során a többi funkció kerül vizsgálatra, tesztelé
 | Bejelentkezési menüpont | 2022.11.25. | Remember me gomb megjegyzi az utolsó belépett felhasználót | Be- majd kijelentkezés után az utolsó belépett felhasználó adatai megjegyésre kerültek | Hibát nem találtam |
 | Menüpont tesztelés | 2022.11.25. | Add new question gombbal végignavigál minket az új kérdés hozzáadása folyamaton | Gombra kattintva és a lépéseket követve sikeresen létrehoztam egy kérdést | Hibát nem találtam |
 | Menüpont tesztelés | 2022.11.25. | Create Questionnaire gomb végignavigál a kérdőív létrehozása metóduson | Gombra kattintva létre tudtam hozni kérdőívet | Hibát nem találtam |
-| Menüpont tesztelés | 2022.11.25. | Az Add question gomb segítségével új kérdést vihetünk az adatbázisba | Gombra kattintva a kívánt végrehajtódik | Hibát nem találtam | 
+| Menüpont tesztelés | 2022.11.25. | Az Add question gomb segítségével új kérdést vihetünk az adatbázisba | Gombra kattintva a kívánt kérés végrehajtódik | Hibát nem találtam | 
 | Menüpont tesztelés | 2022.11.25. | Add new question gombra kattintva elnavigálunk az előbb említett funkcióhoz. | Kattintásra a navigálás megtörténik.  | Hibát nem találtam |
 | Menüpont tesztelés | 2022.11.25. | A Delete question gomb megnyomásakor a kérdés törlődik. | A törlés megtörténik | Hibát nem találtam |
 | Megosztási lehetőség tesztelése | 2022.11.25. | Megoszthatóság funkció link segítségével oldható meg. | 1-1 kérdőív a megadott linkkel osztható volt. | Hibát nem találtam |
@@ -94,8 +94,8 @@ A következő tesztelés során tesztelésre kerül a többi funkció is.
 | :---: | --- | --- | --- | --- |
 | Bejelentkezési menüpont | 2022.11.29. | A Remember me gombbal tárolhatóvá válik az utolsó belépő | Be- majd kijelentkezés után az utolsó belépés adatai megjegyzésre kerültek. | Nem találtam problémát. |
 | Menüpont tesztelés | 2022.11.29. | Add new question gombbal a kérdés létrehozás felület jelenik meg | Gombrakattintás után sikeresen hoztam létre kérdést | Nem találtam problémát. |
-| Menüpont tesztelés | 2022.11.29. | Create Questionnaire gombbal megjelenik a kívánt felület | Gombra kattintva létre tudtam hozni kérdőívet | Hibát nem találtam |
-
+| Menüpont tesztelés | 2022.11.29. | Create Questionnaire gombbal megjelenik a kívánt felület | Gombra kattintva létre tudtam hozni kérdőívet | Nem találtam problémát. |
+| Menüpont tesztelés | 2022.11.29. | Az Add question gombbal új kérdés szúrható az adatbázisba | Gombra kattintva a feladat végrehajtódik | Nem találtam problémát. | 
 
 
 
