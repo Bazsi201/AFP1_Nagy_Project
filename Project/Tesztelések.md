@@ -36,7 +36,7 @@ A következő tesztelés során a többi funkció kerül vizsgálatra, tesztelé
 | Menüpont tesztelés | 2022.11.25. | Complete Survey gomb véglegesíti a kérdőívre adott válaszokat. | Gomb megnyomásakor a válaszok rögzítése nem történt meg az adatbázisban | A leírt hibát találtam|
 | Frontend | 2022.11.25. | A weboldal megjelenésének vizsgálata | A weboldal designa elfogadható, átlátható. | Hibát nem találtam |
 | Backend | 2022.11.25. | A backendben megírt kódok megfelelő működése | A backend kódjai a Complete Survey gomb kódján kívül működnek. | Hibát részlegesen találtam |
-
+| Regisztráció | 2022.11.25. | Regisztrálás a weboldalra. | A gomb megnyomása után az adatok mostmár sikeresen rögzítésre kerülnek. | Hibát nem találtam |
 
 
 
