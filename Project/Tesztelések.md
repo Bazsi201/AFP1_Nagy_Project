@@ -96,7 +96,7 @@ A következő tesztelés során tesztelésre kerül a többi funkció is.
 | Menüpont tesztelés | 2022.11.29. | Create Questionnaire gombbal megjelenik a kívánt felület | Gombra kattintva létre tudtam hozni kérdőívet | Nem találtam problémát. |
 | Menüpont tesztelés | 2022.11.29. | Az Add question gombbal új kérdés szúrható az adatbázisba | Gombra kattintva a feladat végrehajtódik | Nem találtam problémát. | 
 | Menüpont tesztelés | 2022.11.29. | A Delete question gomb megnyomásakor a kérdés törlését várjuk. | A törlés megtörténik | Nem találtam problémát. |
-
+| Megosztási lehetőség tesztelése | 2022.11.29. | Link segítségével a kérdőív osztható kell legyen | Linkkel sikeresen megosztottam a kvízt | Nem találtam problémát. |
 
 
 
