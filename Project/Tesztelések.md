@@ -1,8 +1,11 @@
 # Tesztjegyzőkönyv
 
 Tesztelő: Kaponya Martin
+
 Operációs rendszer: Windows 10
+
 Böngészők: Google Chrome, Mozilla Firefox, Opera
+
 Ebben a dokumentumban lesz felsorolva az elvégzett tesztek elvárásai és eredményei, illetve időpontjai (Alfa, Béta és Végleges verzió).
 
 ## Alfa teszt
@@ -70,8 +73,11 @@ Befejezve: 2022.12.05
 # Tesztjegyzőkönyv
 
 Tesztelő: Szabó Zsolt
+
 Operációs rendszer: Windows 10
+
 Böngészők: Opera, Google Chrome, Mozilla Firefox
+
 A dokumentumban fel lesz sorolva az elvégzett tesztek kimentele, illetve elvárásai. Alfa, Béta és Végleges verzió külön ki lesz fejtve.
 
 ## Alfa teszt
