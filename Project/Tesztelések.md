@@ -85,7 +85,8 @@ A dokumentumban fel lesz sorolva az elvégzett tesztek kimentele, illetve elvár
 | Jogosultság | 2022.11.26. | Jogosultságok kezelése. | A jogosultságok és a jogok megfelően működnek | Nem találtam problémát. |
 | Autentikáció | 2022.11.26. | Létrehozás, törlés és módosítás csak bejelentkezve elérhető | A három funkció csak belépés után elérhető. | Nem találtam problémát. |
 
-
+Az Alfa tesztelés során a regisztráción kívül minden hibátlanul működött, ezt javítás után újboli tesztelés követi.
+A következő tesztelés során tesztelésre kerül a többi funkció is.
 
 
 
