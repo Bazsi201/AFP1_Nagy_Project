@@ -102,6 +102,10 @@ A következő tesztelés során tesztelésre kerül a többi funkció is.
 | Backend | 2022.11.29. | A backendben megírt kódok működésének vizsgálata | A backend kódjai a Complete Survey gombon kívül működnek | Problémát találtam. |
 | Regisztráció | 2022.11.29. | Regisztrálás a weboldalra. | A regisztrált adatok már bekerülnek az adatbázisba | Nem találtam problémát. |
 
+Az Alfa tesztben nem funkcionáló regisztráció gomb javítása megtörtént, tesztelve is lett.
 
+A Béta teszt elkészült, a letesztelt funkciók egy kivétellel (Complete Survey) sikeresen lefutottak.
+
+A végleges tesztelésnél minden funkciót újra letsztelek, illetve megvizsgáljom, hogy az előzőben hibásan működő funkció javítása sikerült-e.
 
 
