@@ -14,3 +14,5 @@ Ebben a dokumentumban lesz felsorolva az elvégzett tesztek elvárásai és ered
 | Adatbázis | 2022.11.24. | Adatbázis működés ellenőrzése. | A táblák és a weblap mezői sikeresen összekapcsolva, adatbázis adatok tárolására kész. | Hibát nem találtam |
 | Bejelentkezés | 2022.11.24. | Belépés a már létrehozott fiókkal | A fiókkal sikeresen be tudtam lépni a felületre | Hibát nem találtam |
 | Regisztráció | 2022.11.24. | Regisztrálás a weboldalra. | Kért adatok megadása után sikeresen tudtam regisztrálni, de az adatok nem jelentek meg az adatbázisban | A leírt hibát találtam |
+| Jogosultság | 2022.11.24. | Jogosultságok kezelése. | A jogosultság kezelés megfelelően működik. | Hibát nem találtam |
+
