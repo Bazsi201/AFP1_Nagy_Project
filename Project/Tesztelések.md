@@ -30,7 +30,8 @@ A következő tesztelés során a többi funkció kerül vizsgálatra, tesztelé
 | Menüpont tesztelés | 2022.11.25. | Add new question gombbal végignavigál minket az új kérdés hozzáadása folyamaton | Gombra kattintva és a lépéseket követve sikeresen létrehoztam egy kérdést | Hibát nem találtam |
 | Menüpont tesztelés | 2022.11.25. | Create Questionnaire gomb végignavigál a kérdőív létrehozása metóduson | Gombra kattintva létre tudtam hozni kérdőívet | Hibát nem találtam |
 | Menüpont tesztelés | 2022.11.25. | Az Add question gomb segítségével új kérdést vihetünk az adatbázisba | Gombra kattintva a kívánt végrehajtódik | Hibát nem találtam | 
-
+| Menüpont tesztelés | 2022.11.25. | Add new question gombra kattintva elnavigálunk az előbb említett funkcióhoz. | Kattintásra a navigálás megtörténik.  | Hibát nem találtam |
+| Menüpont tesztelés | 2022.11.25. | A Delete question gomb megnyomásakor a kérdés törlődik. | A törlés megtörténik | Hibát nem találtam |
 
 
 
