@@ -83,6 +83,7 @@ A dokumentumban fel lesz sorolva az elvégzett tesztek kimentele, illetve elvár
 | Bejelentkezés | 2022.11.26. | Bejelentkezés létező felhasználóval | A belépés sikeres volt. | Nem találtam problémát. |
 | Regisztráció | 2022.11.26. | Regisztrálás a felületre. | A regisztrálás leadása után a kért adatok nem kerülnek be az adatbázisba | Problémát találtam |
 | Jogosultság | 2022.11.26. | Jogosultságok kezelése. | A jogosultságok és a jogok megfelően működnek | Nem találtam problémát. |
+| Autentikáció | 2022.11.26. | Létrehozás, törlés és módosítás csak bejelentkezve elérhető | A három funkció csak belépés után elérhető. | Nem találtam problémát. |
 
 
 
