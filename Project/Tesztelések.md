@@ -1,4 +1,5 @@
 # Tesztjegyzőkönyv
+
 Tesztelő: Kaponya Martin
 Operációs rendszer: Windows 10
 Böngészők: Google Chrome, Mozilla Firefox, Opera
@@ -68,8 +69,20 @@ Befejezve: 2022.12.05
 
 
 # Tesztjegyzőkönyv
+
 Tesztelő: Szabó Zsolt
 Operációs rendszer: Windows 10
 Böngészők: Opera, Google Chrome, Mozilla Firefox
 A dokumentumban fel lesz sorolva az elvégzett tesztek kimentele, illetve elvárásai. Alfa, Béta és Végleges verzió külön ki lesz fejtve.
+
+## Alfa teszt
+
+| Vizsgálat | Tesztelés időpontja | Elvárás | Eredmény | Hibák |
+| :---: | --- | --- | --- | --- |
+| Adatbázis | 2022.11.26. | Adatbázis működésének vizsgálata. | Az adatbázis sikeresen eltárolja a beküldött adatokat | Nem találtam problémát. |
+| Bejelentkezés | 2022.11.26. | Bejelentkezés létező felhasználóval | A belépés sikeres volt. | Nem találtam problémát. |
+
+
+
+
 
