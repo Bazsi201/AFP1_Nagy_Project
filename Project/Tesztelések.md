@@ -55,4 +55,6 @@ A végleges tesztelésnél prioritást élvez a Béta teszt során még hibásna
 | Autentikáció | 2022.12.05. | Belépett felhasználók jogainak megkülönböztetése | Bejelentkezés nélkül sokkal kevesebb funkció elérhető | Hibát nem találtam |
 | Menüpontok | 2022.12.05. | A menüpontok működésének tesztelése | A menüpontok megfelelően működnek. | Hibát nem találtam |
 | Megoszthatóság | 2022.12.05. | Kérdőív megosztása link használatával. | Linkkel a kérdőívet meg tudtam osztani. | Hibát nem találtam |
+| Frontend | 2022.12.05. | A weboldal megjelenésének tesztelése | A weboldal designa elfogadható, átlátható. | Hibát nem találtam |
+| Backend | 2022.12.05. | A backendben megírt kódok megfelelő működése | A backend kódjai tökéletesen működtek. | Hibát nem találtam |
 
