@@ -52,4 +52,6 @@ A végleges tesztelésnél prioritást élvez a Béta teszt során még hibásna
 | Regisztráció | 2022.12.05. | Regisztrálás a weboldalra. | A funkció korábban javítva lett, a regisztráció megtörténik | Hibát nem találtam |
 | Bejelentkezés | 2022.12.05. | Adatbázisban szereplő fiók beléptetése | A fiókkal a belépés sikerült. | Hibát nem találtam |
 | Jogosultság | 2022.12.05. | Jogosultságok kezelése vizsgálata. | Be- és be nem lépett felhasználók megfelelő jogosultságokkal jelentkeznek | Hibát nem találtam |
+| Autentikáció | 2022.12.05. | Belépett felhasználók jogainak megkülönböztetése | Bejelentkezés nélkül sokkal kevesebb funkció elérhető | Hibát nem találtam |
+| Menüpontok | 2022.12.05. | A menüpontok működésének tesztelése | A menüpontok megfelelően működnek. | Hibát nem találtam |
 
