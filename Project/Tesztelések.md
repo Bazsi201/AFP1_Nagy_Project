@@ -39,6 +39,11 @@ A következő tesztelés során a többi funkció kerül vizsgálatra, tesztelé
 | Regisztráció | 2022.11.25. | Regisztrálás a weboldalra. | A gomb megnyomása után az adatok mostmár sikeresen rögzítésre kerülnek. | Hibát nem találtam |
 
 
+Az Alfa tesztben hibásan működő regisztráció gomb mostmár javítva került tesztelésre.
+
+A Béta teszt elkészült, a letesztelt funkciók megfelelően működtek a weboldalon, kivételt képez a Complete Survey gomb. 
+
+A végleges tesztelésnél prioritást élvez a Béta teszt során még hibásnak titulált funkció, majd újra ellenőrzésre kerülnek az összes funkció.
 
 
 
