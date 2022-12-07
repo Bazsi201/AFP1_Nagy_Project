@@ -38,14 +38,17 @@ A következő tesztelés során a többi funkció kerül vizsgálatra, tesztelé
 | Backend | 2022.11.25. | A backendben megírt kódok megfelelő működése | A backend kódjai a Complete Survey gomb kódján kívül működnek. | Hibát részlegesen találtam |
 | Regisztráció | 2022.11.25. | Regisztrálás a weboldalra. | A gomb megnyomása után az adatok mostmár sikeresen rögzítésre kerülnek. | Hibát nem találtam |
 
-
 Az Alfa tesztben hibásan működő regisztráció gomb mostmár javítva került tesztelésre.
 
 A Béta teszt elkészült, a letesztelt funkciók megfelelően működtek a weboldalon, kivételt képez a Complete Survey gomb. 
 
 A végleges tesztelésnél prioritást élvez a Béta teszt során még hibásnak titulált funkció, majd újra ellenőrzésre kerülnek az összes funkció.
 
+## Végleges teszt
 
+| Vizsgálat | Tesztelés időpontja | Elvárás | Eredmény | Hibák |
+| :---: | --- | --- | --- | --- |
+| Adatbázis | 2022.12.05. | Adatbázis működés ellenőrzése. | A táblák a küldött adatokat sikeresen rögzítik, adatvesztés nincs | Hibát nem találtam |
 
 
 
