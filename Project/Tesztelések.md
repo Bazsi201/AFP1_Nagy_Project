@@ -100,7 +100,7 @@ A következő tesztelés során tesztelésre kerül a többi funkció is.
 | Menüpont tesztelés | 2022.11.29. | Complete Survey rögzíti az adott válaszokat | Gomb megnyomásakor a válaszok nem kerültek be az adatbázisban | Problémát találtam |
 | Frontend | 2022.11.29. | A weboldal külsejének vizsgálata | A weboldal megjelenése letisztult, átlátható. | Nem találtam problémát. |
 | Backend | 2022.11.29. | A backendben megírt kódok működésének vizsgálata | A backend kódjai a Complete Survey gombon kívül működnek | Problémát találtam. |
-
+| Regisztráció | 2022.11.29. | Regisztrálás a weboldalra. | A regisztrált adatok már bekerülnek az adatbázisba | Nem találtam problémát. |
 
 
 
