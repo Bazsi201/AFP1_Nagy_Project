@@ -32,7 +32,7 @@ A következő tesztelés során a többi funkció kerül vizsgálatra, tesztelé
 | Menüpont tesztelés | 2022.11.25. | Az Add question gomb segítségével új kérdést vihetünk az adatbázisba | Gombra kattintva a kívánt végrehajtódik | Hibát nem találtam | 
 | Menüpont tesztelés | 2022.11.25. | Add new question gombra kattintva elnavigálunk az előbb említett funkcióhoz. | Kattintásra a navigálás megtörténik.  | Hibát nem találtam |
 | Menüpont tesztelés | 2022.11.25. | A Delete question gomb megnyomásakor a kérdés törlődik. | A törlés megtörténik | Hibát nem találtam |
-
+| Megosztási lehetőség tesztelése | 2022.11.25. | Megoszthatóság funkció link segítségével oldható meg. | 1-1 kérdőív a megadott linkkel osztható volt. | Hibát nem találtam |
 
 
 
