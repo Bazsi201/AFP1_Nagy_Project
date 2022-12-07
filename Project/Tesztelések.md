@@ -54,4 +54,5 @@ A végleges tesztelésnél prioritást élvez a Béta teszt során még hibásna
 | Jogosultság | 2022.12.05. | Jogosultságok kezelése vizsgálata. | Be- és be nem lépett felhasználók megfelelő jogosultságokkal jelentkeznek | Hibát nem találtam |
 | Autentikáció | 2022.12.05. | Belépett felhasználók jogainak megkülönböztetése | Bejelentkezés nélkül sokkal kevesebb funkció elérhető | Hibát nem találtam |
 | Menüpontok | 2022.12.05. | A menüpontok működésének tesztelése | A menüpontok megfelelően működnek. | Hibát nem találtam |
+| Megoszthatóság | 2022.12.05. | Kérdőív megosztása link használatával. | Linkkel a kérdőívet meg tudtam osztani. | Hibát nem találtam |
 
