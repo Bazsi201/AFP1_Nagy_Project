@@ -88,5 +88,10 @@ A dokumentumban fel lesz sorolva az elvégzett tesztek kimentele, illetve elvár
 Az Alfa tesztelés során a regisztráción kívül minden hibátlanul működött, ezt javítás után újboli tesztelés követi.
 A következő tesztelés során tesztelésre kerül a többi funkció is.
 
+## Béta teszt
+
+| Vizsgálat | Tesztelés időpontja | Elvárás | Eredmény | Hibák |
+| :---: | --- | --- | --- | --- |
+| Bejelentkezési menüpont | 2022.11.29. | A Remember me gombbal tárolhatóvá válik az utolsó belépő | Be- majd kijelentkezés után az utolsó belépés adatai megjegyzésre kerültek. | Nem találtam problémát. |
 
 
