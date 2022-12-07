@@ -81,6 +81,7 @@ A dokumentumban fel lesz sorolva az elvégzett tesztek kimentele, illetve elvár
 | :---: | --- | --- | --- | --- |
 | Adatbázis | 2022.11.26. | Adatbázis működésének vizsgálata. | Az adatbázis sikeresen eltárolja a beküldött adatokat | Nem találtam problémát. |
 | Bejelentkezés | 2022.11.26. | Bejelentkezés létező felhasználóval | A belépés sikeres volt. | Nem találtam problémát. |
+| Regisztráció | 2022.11.26. | Regisztrálás a felületre. | A regisztrálás leadása után a kért adatok nem kerülnek be az adatbázisba | Problémát találtam |
 
 
 
