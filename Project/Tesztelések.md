@@ -58,3 +58,11 @@ A végleges tesztelésnél prioritást élvez a Béta teszt során még hibásna
 | Frontend | 2022.12.05. | A weboldal megjelenésének tesztelése | A weboldal designa elfogadható, átlátható. | Hibát nem találtam |
 | Backend | 2022.12.05. | A backendben megírt kódok megfelelő működése | A backend kódjai tökéletesen működtek. | Hibát nem találtam |
 
+A végleges teszt lezajlott, minden korábbi hiba javításra került, a program átadásra kész a megrendelőnek.
+
+Tesztelést végezte és írta: Kaponya Martin
+
+Befejezve: 2022.12.05
+
+
+
