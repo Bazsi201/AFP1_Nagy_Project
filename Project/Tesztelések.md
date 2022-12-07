@@ -98,7 +98,7 @@ A következő tesztelés során tesztelésre kerül a többi funkció is.
 | Menüpont tesztelés | 2022.11.29. | A Delete question gomb megnyomásakor a kérdés törlését várjuk. | A törlés megtörténik | Nem találtam problémát. |
 | Megosztási lehetőség tesztelése | 2022.11.29. | Link segítségével a kérdőív osztható kell legyen | Linkkel sikeresen megosztottam a kvízt | Nem találtam problémát. |
 | Menüpont tesztelés | 2022.11.29. | Complete Survey rögzíti az adott válaszokat | Gomb megnyomásakor a válaszok nem kerültek be az adatbázisban | Problémát találtam |
-
+| Frontend | 2022.11.29. | A weboldal külsejének vizsgálata | A weboldal megjelenése letisztult, átlátható. | Problémát találtam |
 
 
 
