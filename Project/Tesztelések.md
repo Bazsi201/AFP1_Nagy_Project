@@ -115,3 +115,4 @@ A végleges tesztelésnél minden funkciót újra letsztelek, illetve megvizsgá
 | Adatbázis | 2022.12.03. | Adatbázis működés ellenőrzése. | A tűblák minden kívánt adatot rögzítenek, kezelnek | Nem találtam problémát. |
 | Regisztráció | 2022.12.03. | Regisztrálás a weboldalra. | A funkció javítása sikeres volt, lefut | Nem találtam problémát. |
 | Bejelentkezés | 2022.12.03. | Létező fiók beléptetése | A fiókkal a belépés sikerült. | Nem találtam problémát. |
+| Jogosultság | 2022.12.03. | Jogosultságok kezelése vizsgálata. | Bejelentkezett felhasználók több funkciót érnek el | Nem találtam problémát. |
