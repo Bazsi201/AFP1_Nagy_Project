@@ -117,7 +117,7 @@ A végleges tesztelésnél minden funkciót újra letsztelek, illetve megvizsgá
 | Bejelentkezés | 2022.12.03. | Létező fiók beléptetése | A fiókkal a belépés sikerült. | Nem találtam problémát. |
 | Jogosultság | 2022.12.03. | Jogosultságok kezelése vizsgálata. | Bejelentkezett felhasználók több funkciót érnek el | Nem találtam problémát. |
 | Autentikáció | 2022.12.03. | Belépett felhasználók felismerése | A bejelentkezett felhasználó autentikálása sikeres | Nem találtam problémát. |
-
+| Menüpontok | 2022.12.03. | A menüpontok tesztelése | A menüpontok megfelelően működnek. | Nem találtam problémát. |
 
 
 
