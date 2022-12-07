@@ -16,3 +16,7 @@ Ebben a dokumentumban lesz felsorolva az elvégzett tesztek elvárásai és ered
 | Regisztráció | 2022.11.24. | Regisztrálás a weboldalra. | Kért adatok megadása után sikeresen tudtam regisztrálni, de az adatok nem jelentek meg az adatbázisban | A leírt hibát találtam |
 | Jogosultság | 2022.11.24. | Jogosultságok kezelése. | A jogosultság kezelés megfelelően működik. | Hibát nem találtam |
 | Autentikáció | 2022.11.24. | Csak felhasználói fiók azonosítása után tudjunk kérdőívet létrehozni, törölni, módosítani | Bejelentkezve sikeresen műkődik, kijelentkezve nem lehetséges | Hibát nem találtam |
+
+
+Az Alfa tesztelés során a minden pont hibátlanul működött, kivéve a regisztráció, amit a további teszteknél javítva lesz.
+A következő tesztelés során a többi funkció kerül vizsgálatra, tesztelésre.
