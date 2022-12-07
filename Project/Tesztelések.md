@@ -119,6 +119,6 @@ A végleges tesztelésnél minden funkciót újra letsztelek, illetve megvizsgá
 | Autentikáció | 2022.12.03. | Belépett felhasználók felismerése | A bejelentkezett felhasználó autentikálása sikeres | Nem találtam problémát. |
 | Menüpontok | 2022.12.03. | A menüpontok tesztelése | A menüpontok megfelelően működnek. | Nem találtam problémát. |
 | Megoszthatóság | 2022.12.03. | Kérdőív megosztása linkkel | A kérdőív link segítségével megosztható | Nem találtam problémát. |
-
+| Frontend | 2022.12.03. | A weboldal megjelenésének vizsgálata | A weboldal megjelenése letisztult, átlátható. | Nem találtam problémát. |
 
 
