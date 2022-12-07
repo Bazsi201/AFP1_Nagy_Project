@@ -118,7 +118,7 @@ A végleges tesztelésnél minden funkciót újra letsztelek, illetve megvizsgá
 | Jogosultság | 2022.12.03. | Jogosultságok kezelése vizsgálata. | Bejelentkezett felhasználók több funkciót érnek el | Nem találtam problémát. |
 | Autentikáció | 2022.12.03. | Belépett felhasználók felismerése | A bejelentkezett felhasználó autentikálása sikeres | Nem találtam problémát. |
 | Menüpontok | 2022.12.03. | A menüpontok tesztelése | A menüpontok megfelelően működnek. | Nem találtam problémát. |
-
+| Megoszthatóság | 2022.12.03. | Kérdőív megosztása linkkel | A kérdőív link segítségével megosztható | Nem találtam problémát. |
 
 
 
