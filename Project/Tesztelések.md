@@ -57,6 +57,7 @@ A végleges tesztelésnél prioritást élvez a Béta teszt során még hibásna
 | Megoszthatóság | 2022.12.05. | Kérdőív megosztása link használatával. | Linkkel a kérdőívet meg tudtam osztani. | Hibát nem találtam |
 | Frontend | 2022.12.05. | A weboldal megjelenésének tesztelése | A weboldal designa elfogadható, átlátható. | Hibát nem találtam |
 | Backend | 2022.12.05. | A backendben megírt kódok megfelelő működése | A backend kódjai tökéletesen működtek. | Hibát nem találtam |
+| Menüpont tesztelés | 2022.12.05. | Complete Survey gomb véglegesíti a kérdőívre adott válaszokat. | Gomb megnyomásakor a válaszok rögzítése megtörtén, hiba javítva | Hibát nem találtam |
 
 A végleges teszt lezajlott, minden korábbi hiba javításra került, a program átadásra kész a megrendelőnek.
 
