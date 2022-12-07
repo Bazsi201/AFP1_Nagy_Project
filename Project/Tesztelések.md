@@ -108,4 +108,8 @@ A Béta teszt elkészült, a letesztelt funkciók egy kivétellel (Complete Surv
 
 A végleges tesztelésnél minden funkciót újra letsztelek, illetve megvizsgáljom, hogy az előzőben hibásan működő funkció javítása sikerült-e.
 
+## Végleges teszt
 
+| Vizsgálat | Tesztelés időpontja | Elvárás | Eredmény | Hibák |
+| :---: | --- | --- | --- | --- |
+| Adatbázis | 2022.12.03. | Adatbázis működés ellenőrzése. | A tűblák minden kívánt adatot rögzítenek, kezelnek | Nem találtam problémát. |
