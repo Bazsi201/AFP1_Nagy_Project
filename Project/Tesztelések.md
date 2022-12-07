@@ -123,6 +123,11 @@ A végleges tesztelésnél minden funkciót újra letsztelek, illetve megvizsgá
 | Menüpont tesztelés | 2022.12.03. | Complete Survey gomb véglegesíti a kérdőívre adott válaszokat. | A rögzítés megtörténik, a korábbi hiba sikeresen kijavításra került. | Nem találtam problémát. |
 | Backend | 2022.12.03. | A backendben megírt kódok megfelelő működése | A backend kódjai tökéletesen működtek. | Nem találtam problémát. |
 
+A végleges teszt lezajlott, koráábbi hibák javításra kerültek, a minden funkció használatra kész.
+
+Tesztelést végezte és írta: Szabó Zsolt
+
+Befejezve: 2022.12.03
 
 
 
