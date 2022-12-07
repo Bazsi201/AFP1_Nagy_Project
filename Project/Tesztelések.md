@@ -94,6 +94,7 @@ A következő tesztelés során tesztelésre kerül a többi funkció is.
 | :---: | --- | --- | --- | --- |
 | Bejelentkezési menüpont | 2022.11.29. | A Remember me gombbal tárolhatóvá válik az utolsó belépő | Be- majd kijelentkezés után az utolsó belépés adatai megjegyzésre kerültek. | Nem találtam problémát. |
 | Menüpont tesztelés | 2022.11.29. | Add new question gombbal a kérdés létrehozás felület jelenik meg | Gombrakattintás után sikeresen hoztam létre kérdést | Nem találtam problémát. |
+| Menüpont tesztelés | 2022.11.29. | Create Questionnaire gombbal megjelenik a kívánt felület | Gombra kattintva létre tudtam hozni kérdőívet | Hibát nem találtam |
 
 
 
