@@ -162,3 +162,10 @@ A dokumentumban fel lesz sorolva az elvégzett tesztek kimentele, illetve elvár
 
 Az Alfa tesztelés során a minden pont hibátlanul működött, kivéve a regisztráció, amit a további teszteknél javítva lesz.
 A következő tesztelés során a többi funkció kerül vizsgálatra, tesztelésre.
+
+## Béta teszt
+
+| Vizsgálat | Tesztelés időpontja | Elvárás | Eredmény | Hibák |
+| :---: | --- | --- | --- | --- |
+| Bejelentkezési menüpont | 2022.11.25. | Remember me gomb megjegyzi az utolsó belépett felhasználót | Be- majd kijelentkezés után az utolsó belépett felhasználó adatai megjegyésre kerültek | Hibát nem találtam |
+| Menüpont tesztelés | 2022.11.25. | Add new question gombbal végignavigál minket az új kérdés hozzáadása folyamaton | Gombra kattintva és a lépéseket követve sikeresen létrehoztam egy kérdést | Hibát nem találtam |
