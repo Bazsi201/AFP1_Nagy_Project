@@ -158,4 +158,5 @@ A dokumentumban fel lesz sorolva az elvégzett tesztek kimentele, illetve elvár
 | Bejelentkezés | 2022.11.24. | Belépés a már létrehozott fiókkal | A fiókkal sikeresen be tudtam lépni a felületre | Hibát nem találtam |
 | Regisztráció | 2022.11.24. | Regisztrálás a weboldalra. | Kért adatok megadása után sikeresen tudtam regisztrálni, de az adatok nem jelentek meg az adatbázisban | A leírt hibát észleltem |
 | Jogosultság | 2022.11.24. | Jogosultságok kezelése. | A jogosultság kezelés megfelelően működik. | Hibát nem találtam |
+| Autentikáció | 2022.11.24. | Csak felhasználói fiók azonosítása után tudjunk kérdőívet létrehozni, törölni, módosítani | Bejelentkezve sikeresen műkődik, kijelentkezve nem lehetséges | Hibát nem találtam |
 
