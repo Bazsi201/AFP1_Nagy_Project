@@ -183,3 +183,10 @@ Az Alfa tesztben hibásan működő regisztráció gomb mostmár javítva kerül
 A Béta teszt elkészült, a letesztelt funkciók megfelelően működtek a weboldalon, kivételt képez a Complete Survey gomb. 
 
 A végleges tesztelésnél prioritást élvez a Béta teszt során még hibásnak titulált funkció, majd újra ellenőrzésre kerülnek az összes funkció.
+
+## Végleges teszt
+
+| Vizsgálat | Tesztelés időpontja | Elvárás | Eredmény | Hibák |
+| :---: | --- | --- | --- | --- |
+| Adatbázis | 2022.12.07. | Adatbázis működés ellenőrzése. | A táblák a küldött adatokat sikeresen rögzítik, adatvesztés nincs | Hibát nem találtam |
+| Regisztráció | 2022.12.07. | Regisztrálás a weboldalra. | A funkció korábban javítva lett, a regisztráció megtörténik | Hibát nem találtam |
