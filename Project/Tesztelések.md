@@ -172,3 +172,8 @@ A következő tesztelés során a többi funkció kerül vizsgálatra, tesztelé
 | Menüpont tesztelés | 2022.11.25. | Create Questionnaire gomb végignavigál a kérdőív létrehozása metóduson | Gombra kattintva létre tudtam hozni kérdőívet | Hibát nem találtam |
 | Menüpont tesztelés | 2022.11.25. | Az Add question gomb segítségével új kérdést vihetünk az adatbázisba | Gombra kattintva a kívánt kérés végrehajtódik | Hibát nem találtam | 
 | Menüpont tesztelés | 2022.11.25. | A Delete question gomb megnyomásakor a kérdés törlődik. | A törlés megtörténik | Hibát nem találtam |
+| Megosztási lehetőség teszteése | 2022.11.25. | Megoszthatóság funkció link segítségével oldható meg. | 1-1 kérdőív a megadott linkkel osztható volt. | Hibát nem találtam |
+| Menüpont tesztelés | 2022.11.25. | Complete Survey gomb véglegesíti a kérdőívre adott válaszokat. | Gomb megnyomásakor a válaszok rögzítése nem történt meg az adatbázisban | A leírt hibát tapasztaltam|
+| Frontend | 2022.11.25. | A weboldal megjelenésének vizsgálata | A weboldal designa elfogadható, átlátható. | Hibát nem találtam |
+| Backend | 2022.11.25. | A backendben megírt kódok megfelelő működése | A backend kódjai a Complete Survey gomb kódján kívül működnek. | Hibát részlegesen találtam |
+| Regisztráció | 2022.11.25. | Regisztrálás a weboldalra. | A gomb megnyomása után az adatok mostmár sikeresen rögzítésre kerülnek. | Hibát nem találtam |
