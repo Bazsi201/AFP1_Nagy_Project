@@ -190,3 +190,5 @@ A végleges tesztelésnél prioritást élvez a Béta teszt során még hibásna
 | :---: | --- | --- | --- | --- |
 | Adatbázis | 2022.12.07. | Adatbázis működés ellenőrzése. | A táblák a küldött adatokat sikeresen rögzítik, adatvesztés nincs | Hibát nem találtam |
 | Regisztráció | 2022.12.07. | Regisztrálás a weboldalra. | A funkció korábban javítva lett, a regisztráció megtörténik | Hibát nem találtam |
+| Bejelentkezés | 2022.12.07. | Adatbázisban szereplő fiók beléptetése | A fiókkal a belépés sikerült. | Hibát nem találtam |
+| Jogosultság | 2022.12.07. | Jogosultságok kezelése vizsgálata. | Be- és be nem lépett felhasználók megfelelő jogosultságokkal jelentkeznek | Hibát nem találtam |
