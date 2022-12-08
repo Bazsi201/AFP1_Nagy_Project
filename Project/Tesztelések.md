@@ -150,5 +150,10 @@ Böngészők: Opera, Google Chrome, Mozilla Firefox
 
 A dokumentumban fel lesz sorolva az elvégzett tesztek kimentele, illetve elvárásai. Alfa, Béta és Végleges verzió külön ki lesz fejtve.
 
+## Alfa teszt
 
+| Vizsgálat | Tesztelés időpontja | Elvárás | Eredmény | Hibák |
+| :---: | --- | --- | --- | --- |
+| Adatbázis | 2022.11.24. | Adatbázis működés ellenőrzése. | A táblák és a weblap mezői sikeresen összekapcsolva, adatbázis adatok tárolására kész. | Hibát nem találtam |
+| Bejelentkezés | 2022.11.24. | Belépés a már létrehozott fiókkal | A fiókkal sikeresen be tudtam lépni a felületre | Hibát nem találtam |
 
