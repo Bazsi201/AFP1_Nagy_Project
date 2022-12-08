@@ -198,3 +198,9 @@ A végleges tesztelésnél prioritást élvez a Béta teszt során még hibásna
 | Frontend | 2022.12.07. | A weboldal megjelenésének tesztelése | A weboldal designa elfogadható, átlátható. | Hibát nem találtam |
 | Backend | 2022.12.07. | A backendben megírt kódok megfelelő működése | A backend kódjai tökéletesen működtek. | Hibát nem találtam |
 | Menüpont tesztelés | 2022.12.07. | Complete Survey gomb véglegesíti a kérdőívre adott válaszokat. | Gomb megnyomásakor a válaszok rögzítése megtörtént, hiba javítva | Hibát nem találtam |
+
+A végleges teszt lezajlott, a program átadásra kész a megrendelőnek.
+
+Tesztelést végezte és írta: Mihály Balázs
+
+Befejezve: 2022.12.07
